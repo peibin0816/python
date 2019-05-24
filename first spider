@@ -94,6 +94,5 @@ def main():
                 t = Meizitu(url,hrefList[i],titleList[i])
                 t.start()
 
-
 if __name__ == '__main__':
     main()
